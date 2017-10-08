@@ -1,9 +1,9 @@
 
 ## Usage
 
-Generate a single log line to STDOUT
+
 ```
-$ python apache-fake-log-gen.py  
+$ python stock_summary.py  
 
 ## Requirements
 * Python 2.7
