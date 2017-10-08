@@ -1,7 +1,3 @@
-# Fake Apache Log Generator
-
-
-***
 
 ## Usage
 
