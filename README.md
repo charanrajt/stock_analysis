@@ -6,10 +6,13 @@ This code geneartes few techincal and fundamental indicators of a stock lsted in
 ## Requirements
 Install the required packges using
 
+
 pip install -r requirements.txt
 
 # Usage 
+
 python stock_summary.py
+
 
 Enter the stock ticker, it will produce data.xlsx, an excel with
 
@@ -18,12 +21,9 @@ Ticker          : Ticker of the stock
 CMP	            : Current Market Price 
 
 BP	            : Base price
-
                  Average  last three years closing price                
-                 buy near 1.2*base price in uptreand and sell near 
-                 
-                 1.4 with stop loss of 1.1 * base price
-                 
+                 buy near 1.2*base price in uptreand and sell near                  
+                 1.4 with stop loss of 1.1 * base price                 
                  For trading buy above 5% of base price in uptrend
 
 
@@ -34,9 +34,7 @@ CMP/BP	       : CMP/BP (look for the stocks near 1 to 1.2 ragnge)
 52-Low	       : 52 wk low  
 
 H/L	           : High to low ratio
-
-               This is an indicator for the  voltality of the stock.
-               
+               This is an indicator for the  voltality of the stock.               
                Invest only when above ratio is less than 2  
                
 H-away	       : How much % away from 52wk high
@@ -44,7 +42,6 @@ H-away	       : How much % away from 52wk high
 L-away         : How much % away from 52wk low
 
 Div-Y	       : Dividebd yield, better to choose dividend giving stocks 
-
                 in case holding for long-term, at least we will get some div 
                 
 P/E	           : Price to Earning ratio, aviod stocks with high PE (>20?)
