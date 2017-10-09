@@ -1,12 +1,7 @@
 
-This repository consists of python codes to generate few techincal and fundamental indicators.
-
-
-
+This repository consists of python codes to generate few techincal and fundamental indicators of a stock lsted in US market.
 
 #Usage
-
-
 ```
 $ python stock_summary.py  
 
