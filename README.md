@@ -1,5 +1,10 @@
 
-## Usage
+This repository consists of python codes to generate few techincal and fundamental indicators.
+
+
+
+
+#Usage
 
 
 ```
