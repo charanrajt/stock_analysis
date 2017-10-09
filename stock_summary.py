@@ -5,7 +5,7 @@ from yahoo_finance import Share
 import string
 from yahoo_historical import Fetcher
 
-data = Fetcher("AAPL", [2007,1,1], [2017,1,1])
+
 
 def func_finviz_reader(symbol):    
   
