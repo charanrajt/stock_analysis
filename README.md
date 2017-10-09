@@ -20,9 +20,8 @@ Ticker          : Ticker of the stock
 
 CMP	            : Current Market Price 
 
-BP	            : Base price
-                 Average  last three years closing price                
-                 buy near 1.2*base price in uptreand and sell near                  
+BP	            : Base price,  Average  last three years closing price,      
+                 buy near 1.2*base price in uptreand and sell near           
                  1.4 with stop loss of 1.1 * base price                 
                  For trading buy above 5% of base price in uptrend
 
