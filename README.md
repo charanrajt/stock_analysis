@@ -3,11 +3,11 @@ This repository consists of python codes to generate few techincal and fundament
 
 This code geneartes few techincal and fundamental indicators of a stock lsted in US market. Techincal indicators are used according to  http://www.maheshkaushik.com/
 
-##Requirements
+## Requirements
 Install the required packges using
 pip install -r requirements.txt
 
-#Usage 
+# Usage 
 python stock_summary.py
 
 Enter the stock ticker, it will produce data.xlsx, an excel with
