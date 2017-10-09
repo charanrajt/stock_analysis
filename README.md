@@ -1,16 +1,13 @@
 
 This repository consists of python codes to generate few techincal and fundamental indicators of a stock lsted in US market.
 
-"""
-This code geneartes few techincal and fundamental indicators of 
-a stock lsted in US market.
-Techincal indicators are used according to 
-http://www.maheshkaushik.com/
+This code geneartes few techincal and fundamental indicators of a stock lsted in US market. Techincal indicators are used according to  http://www.maheshkaushik.com/
 
+##Requirements
 Install the required packges using
 pip install -r requirements.txt
 
-Usage 
+#Usage 
 python stock_summary.py
 
 Enter the stock ticker, it will produce data.xlsx, an excel with
@@ -46,7 +43,7 @@ TP_away	       :  How much % away from TP
 Finviz_TP	   : Finviz Target price (avg of the NASDAQ analysit predictions)
 Rec            : Finviz Reco 1-5(strong buy - strong sell)
 
-"""
+
 
 ## License
 The MIT License
